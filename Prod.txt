@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is text file for production
 dfhgds
 sdjfhsrt
@@ -10,3 +11,7 @@ orange
 Address
 email
 mobile
+=======
+india
+This is text file for production 
+>>>>>>> Perth
