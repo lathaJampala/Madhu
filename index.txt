@@ -1,1 +1,7 @@
 This is text file for index page
+
+address
+latha
+email
+email@email.com
+
