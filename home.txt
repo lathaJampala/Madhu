@@ -1,1 +1,13 @@
 This is text file for home page
+
+carrot
+apple
+orange
+pineapple
+cat dog
+pig
+dsadkb
+
+
+
+
