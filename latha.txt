@@ -1,8 +1,2 @@
-australia
-america
-
-
-Newzland
-Auckland
-Vijayawada
-Hyderabad
+Aus
+Ind
